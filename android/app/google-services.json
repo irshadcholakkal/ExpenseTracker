@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188440107927",
+    "project_id": "lustrous-center-390108",
+    "storage_bucket": "lustrous-center-390108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188440107927:android:7265508d2ac0ebe21b02d2",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188440107927-qs5fvve272ro3dforul4m354fg4rgf6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_tracker",
+            "certificate_hash": "0bdd3abd980736f77e2137c439551e9938340577"
+          }
+        },
+        {
+          "client_id": "188440107927-vs785jvjjo8pqr94h6eb0cbms4tae28f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uwMubrW7T1o4CZC2P11mguhEMu754UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188440107927-vs785jvjjo8pqr94h6eb0cbms4tae28f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
